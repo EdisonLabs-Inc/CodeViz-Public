@@ -1,6 +1,8 @@
 # CodeViz | Visual codebase map
 ## Reporting Issues
-We actively monitor this repository for bug reports and feature requests. To add your own, create a new Issue using the "Issues" tab above. 
+We actively monitor this repository for bug reports and feature requests. To add your own, create a new Issue using the "Issues" tab above.
+
+Want immediate support? Message us on discord: [https://discord.gg/De3BpSQkGH](https://discord.gg/De3BpSQkGH)
 
 ## About
 CodeViz builds a visual map of your codebase for faster understanding and navigation.
