@@ -1,16 +1,16 @@
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; border-bottom: 1px solid #e1e4e8; padding-bottom: 20px;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/codeviz-c3275.appspot.com/o/codeviz_logo.png?alt=media&token=45b0753d-ecae-4fe2-9677-1df384fa2e12" alt="CodeViz Logo" width="100" style="border-radius: 50%;">
-    <h1 style="border: none;">CodeViz: Interactive Visual Maps of Your Entire Codebase</h1>
-  </div>
+  <div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/codeviz-c3275.appspot.com/o/codeviz_logo.png?alt=media&token=45b0753d-ecae-4fe2-9677-1df384fa2e12" alt="CodeViz Logo" width="100" style="border-radius: 50%;">
+  <h1>CodeViz: Interactive Maps of Your Entire Codebase</h1>
   <img src="https://firebasestorage.googleapis.com/v0/b/codeviz-c3275.appspot.com/o/codeviz_readme.png?alt=media&token=1055aa8d-57da-4d3f-848b-10cc8a419283" alt="CodeViz Screenshot" width="800">
-
-  <a href="https://discord.gg/De3BpSQkGH"><img src="https://img.shields.io/discord/YOUR_DISCORD_ID?style=for-the-badge&color=7289da&label=Discord&logo=discord&logoColor=ffffff" alt="Join our Discord"></a>
-  <a href="https://twitter.com/CodeVizAI"><img src="https://img.shields.io/twitter/follow/CodeVizAI?style=for-the-badge&logo=twitter&color=1DA1F2&logoColor=white" alt="Follow us on Twitter"></a>
-  <a href="https://github.com/EdisonLabs-Inc/CodeViz-Public/issues"><img src="https://img.shields.io/github/issues/EdisonLabs-Inc/CodeViz-Public?style=for-the-badge&logo=github&color=4CAF50" alt="GitHub Issues"></a>
+  </div>
+  <a href="https://discord.gg/jngcr3tPVY"><img src="https://img.shields.io/discord/1237482182230937651?style=for-the-badge&color=7289da&label=Discord&logo=discord&logoColor=ffffff" alt="Join our Discord"></a>
+  <a href="https://twitter.com/codeviz_ai"><img src="https://img.shields.io/badge/Follow-@codeviz__ai-black?style=for-the-badge&logo=x&logoColor=white" alt="Follow us on X"></a>
+  <a href="https://www.ycombinator.com/companies/codeviz"><img src="https://img.shields.io/badge/Backed_by-Y_Combinator-orange?style=for-the-badge" alt="Backed by Y Combinator"></a>
   <br/>
   <a href="https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz"><img src="https://img.shields.io/visual-studio-marketplace/v/CodeViz.codeviz?style=for-the-badge&label=VS%20Code&logo=visualstudiocode&logoColor=white&color=0066b8" alt="VS Code Extension"></a>
   <a href="https://codeviz.ai"><img src="https://img.shields.io/badge/Website-codeviz.ai-blue?style=for-the-badge&color=FF6B6B" alt="Website"></a>
+  <a href="https://github.com/EdisonLabs-Inc/CodeViz-Public/issues"><img src="https://img.shields.io/github/issues/EdisonLabs-Inc/CodeViz-Public?style=for-the-badge&logo=github&color=4CAF50" alt="GitHub Issues"></a>
   <hr>
 </div>
 
@@ -25,7 +25,7 @@ Transform your complex codebases into interactive visual maps with CodeViz. Our 
    - 🏗️ **System Overview**: Automatically generated map of your entire codebase
    - 💬 **Ask Questions**: "How does error handling flow from API to UI?"
    - 🔍 **Analyze Files**: Visualize specific file relationships
-   - 🤖 **Follow Suggestions**: Get contextual query suggestions as you code
+   - 🤖 **Query Suggestions**: Get contextual query suggestions as you code
 
 ## 🚀 Key Features
 
@@ -67,7 +67,7 @@ Transform your complex codebases into interactive visual maps with CodeViz. Our 
 
 ## 🤝 Support & Community
 
-- **Discord**: [Join our community](https://discord.gg/De3BpSQkGH)
+- **Discord**: [Join our community](https://discord.gg/jngcr3tPVY)
 - **Issues**: [GitHub Issue Tracker](https://github.com/EdisonLabs-Inc/CodeViz-Public/issues)
 - **Enterprise**: Contact liam@codeviz.ai for team solutions
 
