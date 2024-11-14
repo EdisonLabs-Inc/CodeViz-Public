@@ -1,6 +1,5 @@
 <div align="center">
   <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/codeviz-c3275.appspot.com/o/codeviz_logo.png?alt=media&token=45b0753d-ecae-4fe2-9677-1df384fa2e12" alt="CodeViz Logo" width="100" style="border-radius: 50%;">
   <h1>CodeViz: Interactive Maps of Your Entire Codebase</h1>
   <img src="https://firebasestorage.googleapis.com/v0/b/codeviz-c3275.appspot.com/o/codeviz_readme.png?alt=media&token=1055aa8d-57da-4d3f-848b-10cc8a419283" alt="CodeViz Screenshot" width="800">
   </div>
@@ -72,8 +71,10 @@ Transform your complex codebases into interactive visual maps with CodeViz. Our 
 - **Enterprise**: Contact liam@codeviz.ai for team solutions
 
 ---
-
-<p align="center">
-<b>Updated daily by Liam and Will at EdisonLabs, Inc.</b><br>
-Making code comprehension fast and intuitive.
-</p>
+<div align="center">
+  <p align="center">
+  <b>Updated daily by Liam and Will at EdisonLabs, Inc.</b><br>
+  Making code comprehension fast and intuitive.
+  </p>
+  <img src="https://firebasestorage.googleapis.com/v0/b/codeviz-c3275.appspot.com/o/codeviz_logo.png?alt=media&token=45b0753d-ecae-4fe2-9677-1df384fa2e12" alt="CodeViz Logo" width="100" style="border-radius: 50%;">
+</div>
