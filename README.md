@@ -46,7 +46,7 @@ Transform your complex codebases into interactive visual maps with CodeViz. Our 
 ## 🔒 Data & Privacy
 
 - **Secure Analysis**: Code processed via Anthropic's LLMs through CodeViz servers
-- **Zero Retention**: No code storage on our servers, zero day retention policy with Anthropic
+- **Zero Storage**: No code storage on our servers or by Amazon Bedrock
 - **Optional Telemetry**: Analytics can be disabled via settings
 - [Privacy Policy](https://www.iubenda.com/privacy-policy/87134644)
 
@@ -72,9 +72,9 @@ Transform your complex codebases into interactive visual maps with CodeViz. Our 
 
 ---
 <div align="center">
-  <p align="center">
+  <p>
   <b>Updated daily by Liam and Will at EdisonLabs, Inc.</b><br>
   Making code comprehension fast and intuitive.
   </p>
-  <img src="https://firebasestorage.googleapis.com/v0/b/codeviz-c3275.appspot.com/o/codeviz_logo.png?alt=media&token=45b0753d-ecae-4fe2-9677-1df384fa2e12" alt="CodeViz Logo" width="100" style="border-radius: 50%;">
+  <img src="https://firebasestorage.googleapis.com/v0/b/codeviz-c3275.appspot.com/o/codeviz_logo.png?alt=media&token=45b0753d-ecae-4fe2-9677-1df384fa2e12" alt="CodeViz Logo" width="100" >
 </div>
