@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  <h1>CodeViz: Interactive Maps of Your Entire Codebase</h1>
+  <h1>CodeViz: Interactive, Visual Codebase Maps</h1>
   <img src="https://firebasestorage.googleapis.com/v0/b/codeviz-c3275.appspot.com/o/codeviz_readme.png?alt=media&token=1055aa8d-57da-4d3f-848b-10cc8a419283" alt="CodeViz Screenshot" width="800">
   </div>
   <a href="https://discord.gg/jngcr3tPVY"><img src="https://img.shields.io/discord/1237482182230937651?style=for-the-badge&color=7289da&label=Discord&logo=discord&logoColor=ffffff" alt="Join our Discord"></a>
@@ -13,41 +13,24 @@
   <hr>
 </div>
 
-Transform your complex codebases into interactive visual maps with CodeViz. Our AI-powered analysis helps you understand both high level architecture and specific flows within your code through natural language queries.
-
-## ⚡ Quick Start
-
-1. Install from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz)
-2. Open your project in VS Code's workspace
-3. Click the CodeViz icon in the sidebar
-4. Start exploring:
-   - 🏗️ **System Overview**: Automatically generated map of your entire codebase
-   - 💬 **Ask Questions**: "How does error handling flow from API to UI?"
-   - 🔍 **Analyze Files**: Visualize specific file relationships
-   - 🤖 **Query Suggestions**: Get contextual query suggestions as you code
+<div align="center" style="font-weight: bold; font-size: 1.5em; padding: 10px;">
+Transform your complex codebase into an interactive visual map.
+</div>
 
 ## 🚀 Key Features
 
-### 🗺️ Interactive Code Maps
+- **Interactive Codebase Maps**: Visualize your codebase, from high level architecture down to function calls
 - **Click-to-Code Navigation**: Jump directly to important code by clicking nodes and connections
-- **Natural Language Queries**: Ask questions about your code in plain English, get focused diagrams visualizing exactly what you asked about
+- **Natural Language Search**: Ask questions about your code in plain English, get focused diagrams visualizing exactly what you asked about
 - **Smart Suggestions**: Get relevant query suggestions based on your current context
-- **Real-time Updates**: Maps evolve as your code changes
-
-### 🤝 Integration & Sharing
-- **VS Code Integration**: One-click setup directly in your editor
-- **Mermaid Export**: Export diagrams in Mermaid format
-- **LLM Context**: Copy your map and relevant code to use as context for an LLM
-
-### ⚡ Developer Experience
-- **Multi-language Support**: Works with all major programming languages
-- **Contextual Help**: Suggestions adapt to your current file and task
+- **Universal Language Support**: CodeViz uses LLMs to understand your code in any programming language
+- **Create LLM Prompts**: One-click prompts to provide codebase-wide context to any LLM
+- **Share Diagrams**: Share with other CodeViz users, export Mermaid diagrams for Markdown, and create Draw.io files
 
 ## 🔒 Data & Privacy
 
-- **Secure Analysis**: Code processed via Anthropic's LLMs through CodeViz servers
-- **Zero Storage**: No code storage on our servers or by Amazon Bedrock
-- **Optional Telemetry**: Analytics can be disabled via settings
+- **Zero Day Retention**: Your code and prompts are never stored in the cloud. Zero day retention policy with all LLM providers
+- **Optional Telemetry**: Telemetry can be disabled via settings, which turns off all error reporting and usage data
 - [Privacy Policy](https://www.iubenda.com/privacy-policy/87134644)
 
 ## 🛠️ Commands
@@ -56,12 +39,14 @@ Transform your complex codebases into interactive visual maps with CodeViz. Our 
 - `CodeViz: Regenerate Architecture` - Force reload of top-level architecture diagram
 - `CodeViz: Set Custom API Key` - Use your own Anthropic key
 - `CodeViz: Check for Updates` - Manual update check
-- `CodeViz: Disable Analytics` - Turn off telemetry
+- `CodeViz: Disable Telemetry` - Turn off telemetry
+- `CodeViz: Enable Telemetry` - Turn on telemetry
+- `CodeViz: Disable Auto Updates` - Turn off auto updates (unstable)
+- `CodeViz: Enable Auto Updates` - Turn on auto updates
 
 ## 📋 Requirements
 
 - VS Code 1.60.0+
-- Relevant language extensions
 - Active internet connection
 
 ## 🤝 Support & Community
