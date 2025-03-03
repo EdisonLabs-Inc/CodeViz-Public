@@ -30,7 +30,7 @@ Transform your complex codebase into an interactive visual map.
 ## 🔒 Data & Privacy
 
 - **Zero Day Retention**: Your code and prompts are never stored in the cloud. Zero day retention policy with all LLM providers
-- **Optional Telemetry**: Telemetry can be disabled via settings, which turns off all error reporting and usage data
+- **Optional Telemetry**: Telemetry can be disabled using VS Code user settings, which enables/disables all error reporting and usage data. Collected information directly relates to CodeViz usage, such as error logs, when you open the webview, session replays, and user queries (no prompts or code).
 - [Privacy Policy](https://www.iubenda.com/privacy-policy/87134644)
 
 ## 🛠️ Commands
@@ -39,8 +39,6 @@ Transform your complex codebase into an interactive visual map.
 - `CodeViz: Regenerate Architecture` - Force reload of top-level architecture diagram
 - `CodeViz: Set Custom API Key` - Use your own Anthropic key
 - `CodeViz: Check for Updates` - Manual update check
-- `CodeViz: Disable Telemetry` - Turn off telemetry
-- `CodeViz: Enable Telemetry` - Turn on telemetry
 - `CodeViz: Disable Auto Updates` - Turn off auto updates (unstable)
 - `CodeViz: Enable Auto Updates` - Turn on auto updates
 
