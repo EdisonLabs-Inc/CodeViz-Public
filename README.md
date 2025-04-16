@@ -28,8 +28,14 @@ Transform your complex codebase into an interactive visual map.
 - **Share Diagrams**: Share with other CodeViz users, export Mermaid diagrams for Markdown, and create Draw.io files
 
 ## 🔒 Data & Privacy
+- **Privacy-Focused**: Your original code is never stored by us. We only store anonymized vector embeddings that power our search features.
 
-- **Zero Day Retention**: Your code and prompts are never stored in the cloud. Zero day retention policy with all LLM providers
+  API Provider Status:
+  - ✅ GCP: Zero-day retention
+  - ✅ AWS: Zero-day retention 
+  - ✅ Anthropic: Zero-day retention
+  - 🔄 OpenAI: Zero-day retention in progress (currently retains some embeddings data for up to 30 days)
+
 - **Optional Telemetry**: Telemetry can be disabled using VS Code user settings, which enables/disables all error reporting and usage data. Collected information directly relates to CodeViz usage, such as error logs, when you open the webview, session replays, and user queries (no prompts or code).
 - [Privacy Policy](https://www.iubenda.com/privacy-policy/87134644)
 
